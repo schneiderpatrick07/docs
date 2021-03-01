@@ -23,7 +23,7 @@ Every comment field on {% data variables.product.product_name %} contains a text
 
 ### Further reading
 
-- [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](https://github.github.com/gfm/)
+- [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](/https://github.github.com/gfm)
 - "[Basic writing and formatting syntax](/articles/basic-writing-and-formatting-syntax)"
 - "[Working with advanced formatting](/articles/working-with-advanced-formatting)"
 - "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)"
